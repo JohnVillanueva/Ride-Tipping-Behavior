@@ -23,6 +23,8 @@ Features (Raw and Engineered):
 
 Overall, daily weather did not have a significant effect on tipping behavior, but perhaps more seasonal weather patterns might indicate changes. Trip distance and trip dropoff and pickup areas contributed most to the predicting the tipping behavior of passengers.
 
+See the presentation slides for more detailed visual data exploration.
+
 ### The Model
 After multiple model iterations, the best model used a Gradient Boosting Classifier optimized using HyperOpt (Bayesian Model-Optimization) with training data balanced with SMOTE. The model return precision of 87.5% and recall of 88.2% (Overall Accuracy: 88%)
 
