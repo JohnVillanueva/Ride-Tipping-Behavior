@@ -1,4 +1,4 @@
-# Ride Hailing Passenger Tipping Behavior In Chicago :blue_car: :red_car: :taxi:
+# Ride Hailing Passenger Tipping Behavior In Chicago \n :blue_car: :red_car: :taxi:
 
 ### Background Information:
 A cursory google search on ride-hailing driver compensation gives the sense that Ride-hailing companies Uber and Lyft notoriously undercompensate their drivers. However, media coverage seems to leave one component of driver compensation out of the conversation: Tips from passengers. The City of Chicago released the first available dataset on individual rides from mobile ride-hailing applications in early 2019. With it, we hope to model the tipping behavior of passengers as well as the factors that contribute to the likelihood that passengers will tip their drivers.
